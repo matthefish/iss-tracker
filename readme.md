@@ -1,3 +1,3 @@
 # ISS-Tracker
-### [preview](images/preview.PNG)
+### ![preview](images/preview.PNG)
 
